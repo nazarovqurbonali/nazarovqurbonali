@@ -3,8 +3,8 @@
 ### <div align="center">I'm Qurbonali , a backend, freelance developer 👨‍💻 working remotely since 2023 🚀</div>  
   
 
-- 🔭 I’m currently working on [Hit-Ticket]([(https://hit-tickets.vercel.app/)])  
-  
+- 🔭 I’m currently working on <a href="https://hit-tickets.vercel.app/">Hit-Ticket</a>
+
 
 - 🌱 I’m currently learning ASP.NET Core  
   
