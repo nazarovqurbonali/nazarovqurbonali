@@ -1,5 +1,3 @@
-
-
 ### <div align="center">I'm Qurbonali , a backend, freelance developer 👨‍💻 working remotely since 2023 🚀</div>  
   
 
@@ -11,10 +9,11 @@
         <p>⚡ Fun fact: I use tabs over spaces</p>
     </div>
     <div style="flex: 1; text-align: right;">
-        <span><img src="https://github-readme-stats.vercel.app/api?username=nazarovqurbonali&show_icons=true&theme=react&hide_border=false" alt="nazarovqurbonali GitHub Stats" width="49.8%" /></span>
+        <span><img src="https://github-readme-stats.vercel.app/api?username=nazarovqurbonali&show_icons=true&theme=react&hide_border=false"  width="49.8%" /></span>
         <span><img src="https://github-readme-streak-stats.herokuapp.com/?user=nazarovqurbonali&theme=react" alt="nazarovqurbonali GitHub Streak" width="49.8%" /></span>
     </div>
 </div>
+
 
 ## My Skill Set  
 <table><tr><td valign="top" width="33%">
