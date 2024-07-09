@@ -17,8 +17,8 @@
 
 <br/>  
 
-<span><img src="https://github-readme-stats.vercel.app/api?username=yangchuansheng&show_icons=true&theme=react&hide_border=false" alt="yangchuansheng" width=49.8% /></span>
-<span><img src="https://github-readme-streak-stats.herokuapp.com/?user=yangchuansheng&theme=react" alt="yangchuansheng" width=49.8% /></span>
+<span><img src="https://github-readme-stats.vercel.app/api?username=nazarovqurbonali&show_icons=true&theme=react&hide_border=false" alt="yangchuansheng" width=49.8% /></span>
+<span><img src="https://github-readme-streak-stats.herokuapp.com/?user=nazarovqurbonali&theme=react" alt="yangchuansheng" width=49.8% /></span>
 
 
 
