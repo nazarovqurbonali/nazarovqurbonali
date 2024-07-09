@@ -2,13 +2,13 @@
   
 
 <div style="display: flex; ">
-    <div style="flex: 1; text-align: left; margin-right: 20px;">
+    <div style="">
         <p>🔭 I’m currently working on <a href="https://hit-tickets.vercel.app/">Hit-Ticket</a></p>
         <p>🌱 I’m currently learning ASP.NET Core</p>
         <p>❓ Ask me about ASP.NET Core</p>
         <p>⚡ Fun fact: I use tabs over spaces</p>
     </div>
-    <div style="flex: 1; text-align: right;">
+    <div style="">
         <span><img src="https://github-readme-stats.vercel.app/api?username=nazarovqurbonali&show_icons=true&theme=react&hide_border=false"  width="49.8%" /></span>
         <span><img src="https://github-readme-streak-stats.herokuapp.com/?user=nazarovqurbonali&theme=react"  width="49.8%" /></span>
     </div>
