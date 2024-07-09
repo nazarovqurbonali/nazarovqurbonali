@@ -1,7 +1,7 @@
 ### <div align="center">I'm Qurbonali , a backend, freelance developer 👨‍💻 working remotely since 2023 🚀</div>  
   
 
-<div style="display: flex; justify-content: center; align-items: center;">
+<div style="display: flex; ">
     <div style="flex: 1; text-align: left; margin-right: 20px;">
         <p>🔭 I’m currently working on <a href="https://hit-tickets.vercel.app/">Hit-Ticket</a></p>
         <p>🌱 I’m currently learning ASP.NET Core</p>
@@ -10,7 +10,7 @@
     </div>
     <div style="flex: 1; text-align: right;">
         <span><img src="https://github-readme-stats.vercel.app/api?username=nazarovqurbonali&show_icons=true&theme=react&hide_border=false"  width="49.8%" /></span>
-        <span><img src="https://github-readme-streak-stats.herokuapp.com/?user=nazarovqurbonali&theme=react" alt="nazarovqurbonali GitHub Streak" width="49.8%" /></span>
+        <span><img src="https://github-readme-streak-stats.herokuapp.com/?user=nazarovqurbonali&theme=react"  width="49.8%" /></span>
     </div>
 </div>
 
