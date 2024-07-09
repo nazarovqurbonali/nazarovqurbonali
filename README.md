@@ -1,3 +1,10 @@
+<img style='width:1800px;' src='https://capsule-render.vercel.app/api?type=waving&color=164EAB&height=225&section=header&text=.Net%20Dev&fontColor=FFFFFF&fontAlign=22&fontAlignY=35&desc=Qurbonali.Ashurzoda&descSize=20&descAlign=18&descAlignY=58&animation=twinkling' />
+
+
+<p align='center'>  <img width height = "100" src ="https://github-readme-stats.vercel.app/api?username=yongbeomkwak&show_icons=true">    <a href="https://opgc.me/#/users/yongbeomkwak" target="_blank"><img src="https://api.opgc.me/githubs/users/yongbeomkwak/tag/?theme=basic" /></a>  <img width height = "100" src ="https://github-readme-stats.vercel.app/api?username=yongbeomkwak&show_icons=true"></p>
+
+<img src='https://media2.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif?cid=6c09b952uadzsnewun41ye2tgxqmfqi40vkjzlq8cokwricj&ep=v1_gifs_search&rid=giphy.gif&ct=g' />
+
 ### <div align="center">I'm Qurbonali , a backend, freelance developer 👨‍💻 working remotely since 2023 🚀</div>  
   
 
