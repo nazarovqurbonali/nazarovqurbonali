@@ -3,24 +3,18 @@
 ### <div align="center">I'm Qurbonali , a backend, freelance developer 👨‍💻 working remotely since 2023 🚀</div>  
   
 
-- 🔭 I’m currently working on <a href="https://hit-tickets.vercel.app/">Hit-Ticket</a>
-
-
-- 🌱 I’m currently learning ASP.NET Core  
-  
-
-- ❓ Ask me about ASP.NET Core  
-  
-
-- ⚡ Fun fact: I use tabs over spaces  
-  
-
-<br/>  
-
-<span><img src="https://github-readme-stats.vercel.app/api?username=nazarovqurbonali&show_icons=true&theme=react&hide_border=false" alt="yangchuansheng" width=49.8% /></span>
-<span><img src="https://github-readme-streak-stats.herokuapp.com/?user=nazarovqurbonali&theme=react" alt="yangchuansheng" width=49.8% /></span>
-
-
+<div style="display: flex; justify-content: center; align-items: center;">
+    <div style="flex: 1; text-align: left; margin-right: 20px;">
+        <p>🔭 I’m currently working on <a href="https://hit-tickets.vercel.app/">Hit-Ticket</a></p>
+        <p>🌱 I’m currently learning ASP.NET Core</p>
+        <p>❓ Ask me about ASP.NET Core</p>
+        <p>⚡ Fun fact: I use tabs over spaces</p>
+    </div>
+    <div style="flex: 1; text-align: right;">
+        <span><img src="https://github-readme-stats.vercel.app/api?username=nazarovqurbonali&show_icons=true&theme=react&hide_border=false" alt="nazarovqurbonali GitHub Stats" width="49.8%" /></span>
+        <span><img src="https://github-readme-streak-stats.herokuapp.com/?user=nazarovqurbonali&theme=react" alt="nazarovqurbonali GitHub Streak" width="49.8%" /></span>
+    </div>
+</div>
 
 ## My Skill Set  
 <table><tr><td valign="top" width="33%">
