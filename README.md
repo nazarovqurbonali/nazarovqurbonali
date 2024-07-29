@@ -3,10 +3,7 @@
 <span><img src="https://github-readme-stats.vercel.app/api?username=nazarovqurbonali&show_icons=true&theme=react&hide_border=false" width="70%" /></span>
 <span><img src="https://github-readme-streak-stats.herokuapp.com/?user=nazarovqurbonali&theme=react" width="70%" /></span>  
 
-
-
 <table><tr><td  valign="top" width="33% ">  
-
 
 ### Frontend  
 <div align="center">  
@@ -18,8 +15,6 @@
 </div>
 
 </td><td valign="top" width="33%">
-
-
 
 ### Backend  
 <div align="center">  
@@ -47,8 +42,3 @@
 </div>
 
 </td></tr></table>  
-
-
-
-  
-
