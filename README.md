@@ -5,4 +5,4 @@
 <span><img src="https://github-readme-streak-stats.herokuapp.com/?user=nazarovqurbonali&theme=react" width="70%" /></span>  
 
 
-                                                                                     
+                                                               
