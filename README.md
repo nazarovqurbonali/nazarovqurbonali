@@ -4,5 +4,7 @@
   <img src="https://github-readme-stats.vercel.app/api?username=nazarovqurbonali&show_icons=true&theme=react&hide_border=false" width="70%" />
 </span>
 
-
+<span>
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=nazarovqurbonali&theme=react" width="70%" />
+</span>
 
